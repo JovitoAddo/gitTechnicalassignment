@@ -1,0 +1,34 @@
+01. mkdir jovito-addo
+02. touch README.MD
+03. nano README.MD
+04. "halo perkenalkan aku halaman utama"
+05. CTRL X -> Y -> Enter
+06. git add README.MD
+07. git commit README.MD -m"insialisasi git repository"
+08. git branch cv
+09. git checkout cv
+10. touch cv.txt
+11. nano cv.txt
+12. "Ini adalah file CV"
+13. CTRL X -> Y -> Enter
+14. git add .
+15. git commit . -m "Inisialisasi CV"
+16. touch perusahaan1.txt
+17. touch perusahaan2.txt
+18. touch perusahaan3.txt
+19. git add perusahaan1.txt
+20. git commit -m "menambahkan perusahaan 1"
+21. git add perusahaan2.txt
+22. git commit -m "menambahkan perusahaan 2"
+23. git add perusahaan3.txt
+24. git commit -m "menambahkan perusahaan 3"
+25. git checkout master
+26. nano README.MD
+27. 	Halo perkenalkan aku halaman utama
+
+	Ini adalah update pertama pada branch master
+28. git add README.MD
+29. git commit README.MD -m "update master pertama"
+30. git merge cv
+31. git remote add github.com/link
+32. git push -u origin master

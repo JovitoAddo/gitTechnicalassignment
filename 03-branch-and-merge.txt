@@ -1,0 +1,10 @@
+01. menghapus file di dalam direktori yang belum di staged
+02. -d di gunakan hanya untuk menghapus file tidak termasuk direktori atau file yang di ignored, -f di gunakan untuk menghapus file atau direktori tanpa pengecualian
+03. git branch namabranchbaru
+04. recursive merge akan membuat copy dari isi branch baru, fast forward tidak
+05. git checkout
+06. git clean
+07. git branch -d
+08. menunjukan perubahan yang terjadi di dalam file
+09. git reset HEAD
+10. saat file memiliki 2 perintah commit dari branch berbeda

@@ -1,0 +1,4 @@
+01. git reset akan menghilangkan semua commit setelah file yang di pilih, sedangkan revert hanya mengubah isi file di commit terbaru. gunakan reset saat mau mengubah banyak commit, revert hanya untuk 1 commit
+02. git rebase menggabungkan branch dengan men delete semua branch lain nya, merge hanya menggabungkan isi dari branch. merge gunakan saat membutuhkan history commit yang detail, rebase hanya di gunakan supaya terlihat lebih bersih tanpa banyak branch
+03. stash pop akan menghapus data di stash setelah di pakai, stash apply masih menyimpan data nya. gunakan apply saat masih ingin menyimpan di stash, pop saat tidak 
+04. mengubah list commit sebelum di rebase
