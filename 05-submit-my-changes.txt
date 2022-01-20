@@ -1,13 +1,13 @@
-01. https://drive.google.com/file/d/17aQV0C3HMppAiNfAGI5BJOg1C3OumvQc/view?usp=sharing
+01. https://github.com/JovitoAddo/gitTechnicalassignment/blob/master/forkyou.png
 02. git clone https://github.com/JovitoAddo/tech4impact-students-bio.git
 03. cd tech4impact-students-bio
 04. git branch jovito-addo
 05. git checkout jovito-addo
 06. touch jovitoaddo.md
-07. https://drive.google.com/file/d/1tGMMHmszL-yBXUEeoX6OdjxAwgW0mJdv/view?usp=sharing
+07. https://github.com/JovitoAddo/gitTechnicalassignment/blob/master/soal6.png
 08. git add jovitoaddo.md
 09. git commit jovitoaddo.md -m "commit jovitoaddo.md"
 10. git checkout master
 11. git merge jovito-addo
 12. git push -u origin master
-13. https://drive.google.com/file/d/1_zxd9EHdUvwHsoTe075TbbR_nhqIHk5D/view?usp=sharing
+13. https://github.com/JovitoAddo/gitTechnicalassignment/blob/master/pull%20request.png
